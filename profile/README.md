@@ -1,5 +1,5 @@
 ## PearHarmony
-We develop a peer to peer chat app as a school project. The project is for software lesson @ [AES-Ettlingen](https://www.aesettlingen.de)  
+We develop a peer to peer chat app as a school project. The project is for software lesson @ [AES-Ettlingen](https://www.aesettlingen.de).  
 
 ### Developers
 - [aocalux](https://github.com/aocalux)  
